@@ -1,4 +1,4 @@
-# [Day 1: Arrays and Strings](https://docs.google.com/spreadsheets/d/1pViJo3jAgve8OB_qHbircFv4lW214_9edoSmc5Yq6RA/edit?gid=0#gid=0)
+# [Day 1: Arrays and Strings](https://docs.google.com/spreadsheets/d/1pViJo3jAgve8OB_qHbircFv4lW214_9edoSmc5Yq6RA/edit?gid=0#gid=0?target=_blank)
 * Concepts to Learn: Arrays, dynamic arrays, string manipulations.
 ### Topics:
 * Basics of arrays (1D and 2D arrays).
@@ -9,9 +9,9 @@
 * Reverse a string in place.
 * Check if a string is a palindrome.
 ### Resources:
-* [Arrays in C# (Official Documentation)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/)
-* [Strings in C# (Official Documentation)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/)
-* [LeetCode Problem Set: Arrays](https://leetcode.com/problem-list/array/)
+* [Arrays in C# (Official Documentation)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/?target=_blank)
+* [Strings in C# (Official Documentation)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/?target=_blank)
+* [LeetCode Problem Set: Arrays](https://leetcode.com/problem-list/array/?target=_blank)
 
 
 ## Basic Array
